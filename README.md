@@ -15,12 +15,17 @@ Following industry best practices, the scan was conducted using Nessus with the 
 - Document Critical Issues: Key vulnerabilities were recorded.
 - Mitigation Recommendations: Fixes were researched and suggested.
 - Report Uploaded: The full report has been added to this repository for reference.
+
+  ![scande2](https://github.com/user-attachments/assets/d95bbb6e-ce03-4f53-85f7-8d098e3cb58d)
+
   
 ## Key Findings
 
-- Number of vulnerabilities detected: 37
+- Number of vulnerabilities detected: 39
 - Critical vulnerabilities: High risk: 1 , Medium Risk: 12 , Low risk : 6 
 - Common issues found:SSL issues(low priority) , Nessus server scan information (info issue) etc
+  
+  [scan de](https://github.com/user-attachments/assets/36e9ba52-b22b-4335-907a-f63a36997af5)
   
 ### Recommendations
 
