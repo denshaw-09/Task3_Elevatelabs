@@ -25,7 +25,8 @@ Following industry best practices, the scan was conducted using Nessus with the 
 - Critical vulnerabilities: High risk: 1 , Medium Risk: 12 , Low risk : 6 
 - Common issues found:SSL issues(low priority) , Nessus server scan information (info issue) etc
   
-  [scan de](https://github.com/user-attachments/assets/36e9ba52-b22b-4335-907a-f63a36997af5)
+![scande1](https://github.com/user-attachments/assets/e8cad9c8-d37e-447f-b087-22790a5b2b5c)
+
   
 ### Recommendations
 
